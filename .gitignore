@@ -1,0 +1,28 @@
+# Diretórios gerados pela compilação
+/build/
+# Diretórios gerados pela instalação do ROS 2
+/install/
+# Diretórios de log do ROS 2
+/log/
+
+# Arquivos de configuração temporários ou específicos do sistema
+*.swp
+*.bak
+*.orig
+.DS_Store
+Thumbs.db
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos gerados pelo Pytest
+*.cover
+*.hypothesis/
+.tox/
+
+# Arquivos de configuração do ROS2 (se não forem necessários para versionamento)
+.dependency/
