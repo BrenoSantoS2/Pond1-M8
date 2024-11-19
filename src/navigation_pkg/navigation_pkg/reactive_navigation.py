@@ -77,7 +77,7 @@ def main():
         'right': 'f'
     }
 
-    robot_pos = [0, 0]
+    robot_pos = [2, 2]
     target_pos = [18, 18]  # Defina a posição do alvo
 
     # Exemplo de movimentação até o alvo
